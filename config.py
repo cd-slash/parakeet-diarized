@@ -25,7 +25,7 @@ DEBUG_MODE = os.environ.get("DEBUG", "0") == "1"
 # Model settings
 DEFAULT_MODEL_ID = "nvidia/parakeet-tdt-0.6b-v2"
 DEFAULT_TEMPERATURE = 0.0
-DEFAULT_CHUNK_DURATION = 500  # 5 minutes in seconds
+DEFAULT_CHUNK_DURATION = 120  # 2 minutes in seconds
 
 # Hugging Face configuration
 HF_TOKEN = os.environ.get("HUGGINGFACE_ACCESS_TOKEN")

@@ -1,0 +1,738 @@
+Chair: Okay, actions.
+GG: So I think most of the key actions can actually be close.
+Speaker 11: So as part of APT cleanup, we did go through all the SCs who have custom contracts.
+Speaker 6: So in terms of those new controls, you're comfortable that they should be sufficient to kind of make things more robust going forward in my life.
+Speaker 11: Yeah, that's the word, make things more robust.
+Speaker 5: Can I just ask a question, Joe, about the 1.1?
+Chair: So as part of some changes that I'm making to compliance reporting up to various governance committees, I'm trying to cut down the quantity of material that the boards are seeing.
+Speaker 12: And then there'd be a threshold that we probably escalate chapter one, I would think.
+Chair: Yeah.
+Speaker 6: Sorry, one other thing on this page.
+Speaker 4: I'll happily chase him.
+Speaker 6: Sorry?
+Speaker 15: I think he took an action to provide it to you, but he's obviously not followed through, so I can actually close that.
+Speaker 6: Yeah, it's the bottom row, 1.6.
+Chair: Well because at the time of the records being taken, Paul said no problem I'll provide it so I just need to make sure he follows through.
+GG: No there was just one other one which is proposed version 3.2 but I understand Joe you're going to cover that as part of the verbal update.
+Chair: Okay can you've got a note to do that?
+GG: Subject to the subject.
+Chair: Correct.
+GG: So role roles, plural, subject to the data which we get the FCA.
+Chair: I think it's probably worth noting that I am conflicted on that point.
+Speaker 15: What do you mean in terms of I thought there was a question in the pack that I read about having one person with multiple roles?
+Speaker 8: Is that a dream that came?
+Chair: So when you say multiple roles, you mean the multiple people?
+Speaker 6: Is there anything that's going to be done on that sort of thing you head to the year-end reporting at the enterprise level?
+Chair: I don't know.
+Speaker 11: Go ahead.
+Chair: So, rates 3.23 bips down year over year.
+Speaker 11: What is that 10 plus 2 then?
+Chair: 2 plus 10 in this case.
+Speaker 11: Yeah, this is the October forecast.
+Chair: So, where we think we're going to end the year is 3.2 bit.
+Speaker 11: You're talking about footnote, right?
+Chair: Yes.
+Speaker 11: That's just the comparative time periods.
+Chair: Yeah, the parent point period is slightly different.
+Speaker 11: So, 210 is versus.
+Speaker 9: Yeah, no, I was just wondering why it's so far.
+Speaker 8: I was wondering why we're so wildly different than the one on the left.
+Speaker 10: But I guess that's not that.
+Speaker 11: No, I think your question is different then.
+Chair: I mean the other way you could think about it is you've got customers spending more in you know good you know people say this is a bad thing but you know it's not necessarily a bad thing you know people spend go and spend at home bargains they go and spend at ms you know they spend at audien little and tesco there's you know people are using the newer card members the newer vintages of co-op members are using their cards for lots more transactions than people we acquired 20 years ago and they are you know we get nearly eighty percent of their credit card spent and they're spending in lots more of our merchants and we're growing pti and revenue here yeah we're growing revenue so like the net the dis the average discount rate has been impacted and just for context for everybody typically two to three bips is average year on year erosion you see a lot of it is actually driven by gcg deals which are very heavy on impact at least for half of it is gcg so the way you think about it is a third is secm share a third is sorry a third is a third is um a third is um growth in merchants pay for a third is gcg and a third is local account mix yeah and so i don't think it's a bad thing and next year we expect an even greater erosion because we have some very expensive gcg deals coming through headquartered in u Samazon and Google which will have a big impact we have so those have been so the right hand side is the percentage year on year so like this year we have like two three point two three next year we have about four bips anticipated for UK how much is Amazon uh is the bip under
+Speaker 12: We also have a premium in the UK.
+Chair: You give more in international that Amazon can have what they want and then you maintain in the US where you've got more volume.
+Speaker 12: Where they don't have a premium at all.
+Chair: They have a small premium.
+Speaker 12: Yeah.
+Chair: Okay.
+Speaker 12: Just to say, it looks like someone's trying to join.
+Chair: Oh, okay.
+Speaker 12: DVLA and a Viva.
+Chair: The Viva's on the slide as resolved.
+Speaker 12: Yeah, yeah.
+Chair: Okay.
+Speaker 8: That's interesting.
+Chair: I think there's a recognition that, like, you know, I think there's a belief, Satchi, that to get to 90%, you need to sell the kitchen sink and the carpet and the towers on the wall and the tabs.
+Speaker 6: There's obviously different metrics that we look at from this perspective.
+Chair: This is the Lyft net.
+Speaker 10: So last we saw 78, right?
+Chair: Yeah, but we just remember when I presented the page because they do, because of matching.
+Speaker 4: Welcome, Suzanne.
+Speaker 14: Thank you.
+Speaker 4: I just add quite a lot of change going on then from a risk management perspective, of course, organisationally, and for the risk committee, it means we're managing this change and then also tracking risk differently with events, with issues.
+Speaker 15: But that's very much work in progress depending on how the system presents the data.
+Speaker 4: Well, I think the tracking sits really predominantly with Suzanne and with Jo from her team in terms of trying to pull the data.
+Speaker 15: But we're engaging the central teams who are driving this change to get a point of arrival when we know will be a steady state.
+Speaker 14: I was going to say it's probably good maybe to flip to item number three, which ties into this.
+Chair: When will it exist then?
+Speaker 14: We are being told it will be resolved by the end of the year.
+Chair: Okay, I think that's fine for the moment.
+Speaker 6: Yeah, these are actually raised up through Lead Up as a concern, the lack of reporting.
+Speaker 4: So, should we do the same?
+Chair: I think to this point is why did the change happen without any because effectively the way we manage risk within the business was changed for us without us knowing about it.
+Speaker 15: Yeah, I don't did anyone come and speak to you about changing well the whole risk methodology has evolved into as well as we talked about as Suzanne described earlier, but I mean that's an enterprise approach to tracking risk within the business rather than a but changing the tools and not an upgrade.
+Chair: I mean can you give the example something like Orbit?
+Speaker 8: I think the concern that these board was most worried about was that this gap in information real-time status information and basically
+Chair: There's like a it appears there's going to be a I'm sure it will get fixed but it appears there's going to be a hiatus between which we can see where we're at and when we will again be able to see where we're at in the meantime what sort of operates in the dark Karen was saying that they've got ways and means and they're doing their best it's all manual the same situation for us you know we we've got ways and means but all the while it's manual but Susie we were the only thing is we like that changed no one made no one in this room I think was involved or consulted that there would be a period where we might be in the dark no no so that that means a process wasn't followed from this we discussed that under the sort of leg up yeah structure you would have expected that to have come down yeah from wherever the decision was taken yes or advice slash consultation with the small city with the local legal entities or at least the ability to ask questions and get the assurance as to what we would do at the interim seems like you're all kind of presented with this situation that you're managing as best you can but it's not ideal so I think that that aspect of it that's the leg up was the leg up who was actually Karen and Hannah couldn't action that okay so do you want to take an action for me Keith and Suzanne to do the same action to do similar I mean the I think issue yeah I think from a legal entity point of view it's helpful to if something's been kind of imposed on us without discussion even if easel is already doing it we're doing it from this side from this board as well okay and I'll speak to because I would expect IPA to want to do the same okay they've had their disputes go but they haven't done that okay all right
+Speaker 14: I think when we had the IPO board being step up, the challenge wasn't as clear.
+GG: Okay.
+Speaker 4: Okay.
+Speaker 14: Yes, and just actually as the conversation's gone on, there's also been a new AMP 83.
+Speaker 19: Okay.
+Speaker 14: So the number two item, the third party autonomic practice risk assessment, we were updated at the risk committee and the risk committee that the board should be aware.
+Chair: Any questions?
+Speaker 11: Just that a lot of owners will be on the partners then, right?
+Speaker 15: More owners, yeah.
+Speaker 10: You know, one of the things we opted here is AMEX asks are more ownerous.
+Chair: There's been a supervisory letter about more due diligence on third parties.
+Speaker 11: But I guess with the fact that you have a supervisory letter means now partners won't care.
+Chair: They'll turn around and say, that's the US, that's nothing to do with us.
+Speaker 15: So you're not really comparing apples with apples when they talk about the information they need to collect for the other schemes because in those instances they are the acquirers and they already have the information.
+Chair: But we do ask for more.
+Speaker 1: Yeah, but then that's why it doesn't work, right?
+Chair: But that's the policy running.
+Speaker 1: We ask for information we don't need then, which was the case that we uncovered with Petal yesterday and it happens a lot.
+Chair: It's because it was a mass approach.
+Speaker 3: The only other way to do it would be to be very bespoke for all of the major clients, like not put it into services.
+Speaker 12: Or an excertion basis.
+Chair: Yeah, but look how much that costs.
+Speaker 12: No, no, I know.
+Chair: It's not, we can't do that on an on-game basis.
+Speaker 4: Yeah, so just the last few points with there's no slides provided, but number four, global payments, you will have read, there's a delay to the migration of their existing book, which includes MR and MRPS partners.
+Chair: I think there needs to be, we've discussed this, there needs to be a plan for migration.
+Speaker 15: Yeah, I mean, cancellation is always there and it's always within our control, so we can determine that.
+Speaker 4: Just to again close out a point from the last board meeting, enterprise risk management have said.
+Chair: Sorry, on four, can we just joke?
+Speaker 15: Sure, we can pick that up.
+Speaker 4: Um, item number five: so we've had the first version of the enterprise risk management risk dashboard, which was shared at last board, and there's no issues for raising to the board, but no escalations there.
+Chair: I think it's fine to escalate where thresholds are triggered.
+Speaker 4: Yeah, good, agreed.
+Speaker 15: Number nine, there was a discussion at RISC Committee about data subject access requests, which is where individuals can ask to see any information that a company holds about them.
+Chair: So that's going to be piloted for 10 requests and then a decision made about let's continue in that vein.
+Speaker 6: Sorry, just on number five with the ERM dashboard, you said on the page the ERM team have requested their dashboards to present at board meetings moving forward.
+Speaker 15: Well, it's a board decision, so we'll tell them.
+Chair: Okay.
+GG: It's not an official comment at the minute, Joe.
+Chair: It is concerning.
+Speaker 6: So, an action to follow up with.
+Chair: It's GFCC.
+Speaker 7: I don't know why I'm looking at you in the market now.
+Chair: It's someone in someone in GFCC.
+Speaker 8: Can we rely on a system that is fundamental to running our business in a safe part?
+Chair: And what else is there that we don't?
+Speaker 9: Maybe the GFCC team can kind of give an update.
+Chair: So to joke, is get a GFCC team to come and give an update about cadence.
+Speaker 8: That's a fair specific, like we just asked them to do an update on cadence.
+Speaker 9: That's actually reading your mind out to get that point.
+Chair: And what you know, in this case, they knew about an issue, but like what else is on there?
+Speaker 15: Agreed.
+Speaker 3: Thought there'd be basic tech controls in to stop those things happening?
+Chair: Yep so GFCC is also picking this up.
+Speaker 9: Joe, just on Project Aquarium, when they came and presented it, it was about moving entities into EASL.
+GG: Yeah.
+Speaker 9: And there were, we talked about whether they would, in the context of the broader KYC mediation work, they obviously were through it.
+Chair: So it's moving, Aquarium is moving some in and some out.
+Speaker 8: But the vast majority that are moving into EAPSOL, we already have within Epsil.
+Chair: But this will create pain for you, Veronic, in terms of merchants moving around because different jurisdictions and legal entities are going to work to different grids.
+Speaker 1: But I've asked Michelle and the compliance team as well as Lorraine to look at the needs for GCG accounts holistically.
+Chair: Okay, good.
+Speaker 20: Let's talk about KYC.
+Chair: So, you just say there's about 200 merchants aren't there, Greg.
+Speaker 20: You're going to come on to that.
+Chair: I think the only thing that makes them amber is the funding as soon as the fund, we took an action last week in the management meeting, it's still not approved.
+Speaker 20: So next slide.
+Chair: So the critical thing for the board is acute remediation mop-up.
+Speaker 8: Yeah.
+Chair: And Max confirmed to us on Friday that he has 100%, he bet his life, he's got 100% confidence he'll be able to solve for 53 by, I think he said the end of next week, didn't he?
+Speaker 8: It's not in scope for KPMG but we have discussed it with Service saying that we will get a full essentially like QC done at the end and we will get a wrap-up.
+Speaker 18: Who's QCing?
+Speaker 8: It's servicing.
+Speaker 18: They're QCing themselves.
+Speaker 8: We're QCing what the QC might not be the right one, but they're going to provide a report to check that everything's gone through.
+Speaker 18: I think it's a positive reporting more than QC.
+Speaker 9: Is there someone that could check that going?
+Speaker 3: Second line.
+Chair: I mean, there were obviously multiple, multiple projects across the Q mediation mock-up.
+Speaker 8: But I think we're confident that the cancellation file will be sent on Thursday, which means the cancellation will be run this weekend or we will be able to run away.
+Speaker 11: So just from the standpoint, as about Nitro, 51 will be cancelled?
+Speaker 8: 51 is that means they're either pending the SLR update, so they've been completed and they're waiting for CARSIC to update this record, or they are pending cancellation because they might have said that they actually want to be cancelled, they're not using time layers, etc.
+Speaker 11: And out of family standards then what you were saying for your forum though?
+Speaker 8: Yes, yes, so this was obviously two couple of weeks ago that this was submitted.
+Chair: One of the issues with this is with a fast-moving project like Nitro papers are submitted three weeks.
+Speaker 11: It's 17 November and we are on 9th.
+Chair: Okay.
+Speaker 6: On Artemis 1.0 given that's got December deadline there's still quite a lot on this schedule in progress and not started sort of.
+Speaker 8: So yeah the thousands not started are due to a macro so it's very quick remediation.
+Chair: Could I make a suggestion?
+Speaker 9: Maybe also after the next AML committee meeting, just because of the deadlines at the end of December, just circulate all the updates over there with that page so that they can see that it's happening.
+Speaker 20: Okay.
+Speaker 8: Yeah, so I think we've materially covered Artemis, but in terms of Project Artemis 1.0, so the ones that were scheduled to finish by the end of this year, all the batches have now completed.
+Speaker 20: Okay, so this one is the summary of the UK KYC backlog and where we are from a low and medium risk case completion.
+Chair: The other thing I think is very important, Greg, to provide is how many merchants are we actually cancelling and how much DBV is actually being cancelled.
+Speaker 12: Well, we know that because we talked about that at the end of the day, there's a lot that hasn't been.
+Chair: The SAM team are going to obviously switch.
+Speaker 11: So, is it right that the cancelled already cancelled is 26 million, and then do you have it on the previous page?
+Chair: That's Artemis, that's different projects.
+Speaker 11: You're talking Nitro.
+Chair: No, I'm talking backlog.
+Speaker 12: If you've got the latest number, you're talking about already cancelled or scheduled for cancelling.
+Chair: Well, they're in batches, so they work batches, right?
+Speaker 8: Yeah, we've got, I mean, we're talking, I don't know, CBV, we've got eight.
+Chair: Yeah, it's like 40, it's 30 plus 40 million.
+Speaker 8: I mean, there's 1100 merchants scheduled for cancelling, and I'm concerned about what's coming as well.
+Speaker 12: Yeah, we've been in delays, and so I think we need to get like, Dan, right, like Nitro had like we had a very short-term need to solve for those by the end of this year.
+Chair: We have great reporting, and it's showing how many merchants we're cancelling, and it's a lot of DVD.
+Speaker 8: I don't think we're getting accurate live reporting, but that's something that we're following.
+Chair: Yeah, so that's nearly 40.
+Speaker 8: Batch 4, 0.8 million, just scheduled.
+Chair: Right.
+Speaker 8: We've still got time to save.
+Speaker 20: I know we have.
+Speaker 8: That's also not including servicing numbers.
+Speaker 20: How much is servicing?
+Speaker 8: Do you know how much is scheduled for cancellation and servicing?
+Speaker 20: I don't know.
+Chair: Just through like 35 million as well.
+Speaker 8: The action is we are meeting with the team to run through anything.
+Speaker 12: Because you don't have a deadline of like the 5th of January.
+Chair: No, they don't have to be aware of that.
+Speaker 12: But we don't want to create more of a backlog.
+Chair: Yeah, okay.
+Speaker 8: Okay, so Project Nitro, I think we've talked about high-risk.
+Chair: I mean, we say it was in the data they were signed here in June.
+Speaker 17: No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, onboarding and then time of sense right flight back yesterday.
+Chair: This is all cadence data from correct.
+Speaker 9: I think the comfort that we need on nitro is that if there are things in there that shouldn't be in there are there things not in there that shouldn't be in there.
+Chair: That's a pretty good point.
+Speaker 12: I thought we did do that exercise though when Nitro came up and we talked about the populations kind of pulled out that there'd be any more.
+Speaker 8: We did work off the data that we were given.
+Chair: But you're only as good as the data you're given.
+Speaker 8: No, he's not going to be.
+Chair: He's working with it, but I mean, even his team don't seem to be able to explain some of the stuff that's happening.
+Speaker 17: It sounds like they're overestimated rather than to the hollow point, actually, mister Data, etc.
+Chair: They've been too cautious, they've included too many merchants and so on.
+Speaker 17: Well, how do we know what is that cheap?
+Chair: I mean, it's a good question, Susan.
+Speaker 8: KPMG are looking at that as well.
+Chair: KPFG is in their scope.
+Speaker 8: It's in their scope to say, have we got the right population in Nitro?
+Chair: They have all the raw data.
+Speaker 20: Okay, okay, I've taken that one away.
+Speaker 8: Um, okay, any other question, Nitro?
+Speaker 6: I guess, Joe, have you seen anything that's changed the position with the FCA?
+Chair: Uh, so at present, no.
+Speaker 17: And from an other market perspective, there is no change from the views market by market, none of them speak to the regulator.
+Chair: The next decision point would be in January time when we get the KPMG work back, the checking work, the spot checking work.
+Speaker 8: Okay, okay, so moving on.
+Speaker 20: That's the last one.
+Speaker 8: Um, so again, since.
+Chair: We are now doing that.
+Speaker 8: Is it access or it's not?
+Chair: Partly access, partly it's not in one place.
+Speaker 8: Just mapping.
+Chair: The way Peter described it to me is it was a treasure hunt to get data whereas it should be because the holes though so nothing it would be don't worry.
+Speaker 8: And we know we have feed issues where we've got like something in input into Genesis that's not pulling through in a Lumi table.
+Chair: Yeah we need to wait for their report I think when we'll obviously probably get them to come and present the summary of their report as well.
+Speaker 8: I mean, like 100%, it has an impact on all of the data for all projects, because that's where we have to model the baseline data.
+Chair: So, what's the kind of the greater impact of all of this?
+Speaker 11: There's already one where I understand on all the.
+Chair: Yeah, there's also some data stuff coming across the enterprise as well.
+Speaker 17: Yeah, so there's the data, I think Emily under Mindy's the data officer now for GMNS, and there are lots of different issues and OREs linked to data.
+Chair: So how KPFG's findings will link into that, we don't know, but I'm sure there'll be some over that.
+Speaker 8: So they've now got like most of the remaining fields.
+Chair: Expected Flight.
+Speaker 15: Yeah.
+Speaker 8: No, I think so.
+Chair: So I think there are keys, but I think we should wait till we've got the full report.
+Speaker 20: Thanks a lot.
+Chair: Chris, lists.
+Speaker 8: It was my second ULAP project.
+Chair: Maybe they'll give you a recondition one the first time.
+Speaker 8: Apparently not, but it should be fine.
+Chair: Christmas jumper dates though.
+Speaker 9: I didn't know.
+Chair: I knew about that.
+Speaker 9: I did get that though.
+Speaker 21: Double check.
+Speaker 9: Let's say Susanna.
+Speaker 6: She was.
+Chair: She broke my twice.
+Speaker 8: So moving on to consumer duty.
+Chair: Yeah, and we'll go through the timelines and we'll go through and give you guys a quick project update in terms of where we're at and basing off the timeline to March 2026.
+Speaker 8: So item number three, the current proposal for in-scope segments for consumer duty and fair value is under review.
+Speaker 11: That would be boring last week.
+Chair: Yeah, I think under the new structure we would give advice that we do not we are content with it, which I believe we are, we wouldn't necessarily approve.
+Speaker 8: Yeah, fine, yeah, and there are some parameters to that.
+Chair: This is just adding to what Ellie said, I think this is a relatively important point.
+Speaker 8: And this work will then inform the documentation on public market, the service briefing document, which we have to do each year, and the mapping of our customer needs and journeys, which was a risk that was called out at the recipient that we are working on.
+Speaker 9: So when we launch a Braille statement, obviously consumer duty is identified as something we need to do.
+Speaker 8: Yeah, so this is actually under the excess discrimination.
+Speaker 9: Field sales should probably be aware of it.
+Speaker 15: I think there's more to do as well around awareness.
+Speaker 13: No, not going to be the last thing.
+Speaker 15: If it's not the only time you're
+Speaker 9: There's a whole bunch of rules.
+Chair: It's notably like everything else in the 90s, that particular bit of training might be recently.
+Speaker 8: Okay, so moving on to the next slide.
+Speaker 3: That VVD one was interesting, wasn't it?
+Chair: I think there probably is a not necessarily a gap through what the tester did between what one set of things says and what another set of things says.
+Speaker 3: Yeah, it seems like it might have been a lot of misalignment between what regulations require and what our policies dictate.
+Speaker 8: Yeah, the other item I'll call.
+Chair: Well, then if we miss this threshold to preach, yes.
+Speaker 8: Any other questions on the page?
+Chair: So as you guys may be aware, so sorry, just one thing of disputes, can we go back to that?
+Speaker 8: Yes, fine.
+Chair: Things like the disputes guide on the website was over 10 years old.
+Speaker 8: That's great, though, because we've identified one of those issue.
+Chair: Then we listed some calls, then we got peer consultants to do the work, and now we're facing the process.
+Speaker 7: That's a really good story.
+Chair: When it comes to FEA, we have so far defined the FEA principles as of October of this year.
+Speaker 6: Well, the last board meeting, I think we were still talking about what principles we defined.
+Chair: Just so just take a step back and we'll find it for what we're doing.
+Speaker 21: In March of this year, which then we took a 2PA consultant for a review and they gave us a wholesale action plan to revise the FEA principles.
+Chair: And what we've done is with all of the business teams, so Keith, I think, and also GCO and with MCO, we're in a room together to actually work through the FEA principles.
+Speaker 21: To reflect the in-scope merchants as to who truly should be in scope for this assessment.
+Chair: We're going through the compliance feedback right now.
+Speaker 21: There are certain risk mitigation that we need to put in place before actually using this data set, just because there are things that we've applied assumptions on that we need to clearly document and define out.
+Speaker 12: How much does that shrink the population?
+Chair: Yeah, it's around like 20,000 merchants that we can remove from the overall population.
+Speaker 21: Yeah, so what we've done is we took the entire base of the UK and then we stripped it all down.
+Chair: We removed our governments, we removed our airlines and we then grouped them based on the top chain volume to determine how big they are.
+Speaker 21: We do have the likes of Londi, Super Safans and etc.
+Chair: So it has helped us understand our landscape a little bit more by just spending the time on the target market.
+Speaker 1: Sorry I didn't catch this when I was the fair value assessment was the whole point was to show that the franchisees within GCG was getting better value than a small merchant although they were about similar size.
+Speaker 11: So let me take a step back.
+Speaker 1: And if you do that, Shachi, you are only left with the small merchants, right?
+Speaker 11: Not just all of them.
+Speaker 8: Even if you were left with just SP, you would still have to abstract value.
+Speaker 1: And is it what we are trying to achieve, Shachi?
+Speaker 11: The point was never whether it was GCG or whether it was non-GCG.
+Chair: But we've removed them anyway, so it's removed the property.
+Speaker 9: Sorry, the point I was just going to make was: I didn't spot this when I was looking through the decks beforehand, that you've gotten the slide sign-off from compliance, legal, and sponsors.
+Speaker 8: The sponsors will sign off if you're deploying.
+Chair: Good.
+Speaker 6: So, at the high level, what are the principles that we're anchoring against for this?
+Speaker 21: So, some of the things we're looking at is whether or not we're not making a significant amount of revenue or profit from a specific report version.
+Chair: So, we're looking at the industry at the segmentation, i.e., which channel acquisition channel do they come from, and understanding the rate that we're charging versus the value we're delivering.
+Speaker 11: There's a set of ten principles.
+Speaker 6: So, we're looking at the value trying to value what we're providing to them as opposed to the amount it's costing us.
+Chair: Yes.
+Speaker 11: But as part of evidencing, at some point, we might have to like one of the things is it's all assumed very pure vanilla that this is the cost, this is the margin we are, therefore, this is the price we're charging.
+Chair: Okay.
+Speaker 8: Sorry.
+Chair: That's a good one.
+Speaker 8: Okay.
+Chair: But to the conversation earlier, this is not necessarily consumer duty orientated.
+Speaker 4: Last time we discussed it, there was AI was being introduced, and there was a tool, but I assume that tool has had some TVs.
+Chair: Yeah, so that was kind of done something else.
+Speaker 15: Redro's earlier comment: are we plugged into a particular area that we're being worked on from an EPSOR perspective?
+Chair: I think the concept of operational resilience was more around it, it was raised, it was the latest a little does that have implications for EAPSOR?
+Speaker 12: There was a method.
+Chair: Yeah.
+Speaker 12: This was going back probably 24 months ago now.
+Chair: Yeah, 2022.
+Speaker 12: Yeah.
+Chair: Okay.
+Speaker 8: Okay, so operational resilience.
+Speaker 12: And this is just for everyone's, this is an audit that's across both entities.
+Speaker 8: So we're in the phase of having started planning into 2026 and I've included in the deck key activities online as we look into 2026.
+Speaker 21: No, the one thing I would add is part of the MI that we've built out is looking to see where resilience factors are being used sort of in a day-to-day basis.
+Speaker 11: What do you mean by resilience?
+Speaker 21: So, when a transaction is authorised,
+Speaker 8: And then we've got a number of items that will run into next year.
+Speaker 21: Yeah so the enhanced MI is essentially at the moment we have a reporting package available that my team is pulling together that is manual and only available on a monthly basis as it stands at the moment.
+Speaker 8: I think next slide.
+Speaker 7: So, yeah, it's actually off the back of our CSA.
+Speaker 8: The other thing I would call out is we've raised a number of issues across our vulnerabilities, whether that's at programmatic level or with the IBSs, to control management in advance of the special review kicking up on the 16th.
+Chair: I don't understand.
+Speaker 11: I think it's probably not giving a bit.
+Speaker 7: Question on the ones which are awaiting tech prioritisation.
+Chair: So, where are we with that?
+Speaker 12: These are new though, Ali, right?
+Chair: The issue is that the top two are waiting tech prioritisation, but I don't I'm not clear whether they've been prioritised or not.
+Speaker 7: No.
+Chair: But I think people are clear within the organisation because there is a list of what's not being funded.
+Speaker 7: Not for ops res.
+Chair: Me?
+Speaker 19: I would say Dan, that the board's opinion will weigh heavily on prioritisation, obviously.
+Chair: You flicked it up on the screen and then said it circulated, but then never did.
+Speaker 19: But not quick enough to take a screenshot, right?
+Chair: I'll try it, I'll just wasn't quick enough.
+Speaker 7: But there is conversation because there are mixed views on parasitation obstructs.
+Chair: But I think the challenge is very easy to make decisions on things looking on a piece of paper and getting Kamal's input.
+Speaker 7: I think Kamal gets that.
+Chair: He wouldn't know about any of what I was just outlining.
+Speaker 7: I mean, from an EAPSIL perspective, I've talked about it.
+Chair: Well, I'd also just remind you: I think the worst is the ones that board is men have mind the matter over management of the business.
+Speaker 7: So this is really enterprise payments that are coordinating this.
+Speaker 19: Yeah, partly, I would say, partly because I think, I mean, we could either talk about it now or we could take it offline, but I would say more broadly, where these vulnerabilities sit are across multiple road and product roadmaps.
+Speaker 7: I think it's good to take offline, but I think this is a really important point to read.
+Speaker 19: How that works?
+Chair: Rob is responsible with the international business.
+Speaker 7: I want to hear what's in a good job of.
+Speaker 19: I was going to say back to the point earlier.
+Speaker 9: Well, can the Seth Department explain the prioritisation of what's been, what trade-offs have been made on Operation Resilience?
+Chair: But he can't answer to us around trade-offs.
+Speaker 11: But whoever is.
+Chair: It's not clear he's making the decisions to me.
+Speaker 11: No, but he's coordinating the dialect code, so.
+Speaker 19: He's cool.
+Chair: We haven't.
+Speaker 8: What's the action?
+Chair: I think the action is probably a few steps back.
+Speaker 8: I'm not quite sure what that means in terms of action.
+Chair: I think the action is, to Johnny's point, he should take a follow-up with Johnny to speak to Seth to work out when we're going to get clarity on the roadmap.
+Speaker 3: To do with like fraud risk, who would be able to prioritise all fraud risk requirements?
+Speaker 7: It seems like to your point on process, maybe there is a process step for the board to ratify what impacts the legal entity.
+Chair: Well, I think we need to be involved in the decision-making, making clear what we want, what the risks are, and be involved in that decision-making process.
+Speaker 8: So, moving on.
+Speaker 1: Hey, Dan, we do for GCG, we do have a CES is doing that's a monthly update on all the tech investments.
+Speaker 19: It happens, it does.
+Chair: Dan, you didn't attend or I both have not been to that meeting at all.
+Speaker 1: Yeah, because I know there is one for GCG on a monthly basis about the review of all of the tech projects.
+Chair: I don't know, maybe Rob has a review, I don't know.
+Speaker 1: Yeah, yeah, okay.
+Speaker 21: Okay, so final bit now is the legal assessment, which I know has come to the board in the last two iterations.
+Chair: We are responsible, we are responsible.
+Speaker 21: Yeah, when we look at someone like NanWest Til, we know that they outsource the processing elements, so the sending of authors, for example, to FISERV.
+Chair: So, in that context, Fiserve becomes their team members, they outsource their whole custom management to someone else, to FinTech, which have a terrible problem here.
+Speaker 21: This is what we're trying to kind of currently work out.
+Speaker 7: We're similar.
+Chair: Of course, that's an issue, isn't it?
+Speaker 7: We do.
+Chair: No, we don't because they're MRPS.
+Speaker 7: So do we need to introduce that?
+Chair: Well, we don't like the MRPS model right now.
+Speaker 7: So we can outline what needs to get done, time frames to do that, and so forth, and then take the decision.
+Speaker 12: And the MRPS timelines for offering our channels.
+Speaker 4: We've got that roadmap, yeah.
+Speaker 7: Maybe that's an action, right?
+Speaker 18: Sure.
+Speaker 12: Christine, you said you're looking at this for Europe too, though, right?
+Speaker 7: Yeah.
+Speaker 8: Sorry, this test plan.
+Speaker 9: So, you think tech is the biggest risk to resilience program currently.
+Speaker 12: Tech prioritisation and oversight, oversight in general, I think, that we've seen.
+Chair: Okay.
+Speaker 8: Okay, so we can go to these as a summary.
+Speaker 4: And they all came out very early in the transition, nothing since then.
+Speaker 8: I mean, we've had a number of cases that have been, city have requested more information on.
+Speaker 7: In one, it did not.
+Speaker 8: So, yeah, and like on slides five and six, I can talk through what that process looks like.
+Chair: So I'm not clear.
+Speaker 8: So we, in the other two cases, we have requested information from them.
+Chair: Presumably, Joe, there's a in the city agreement, or in our agreement, we've got the permission from the merchants to provide that information to a third party.
+Speaker 7: That would be in the bank agreement or the merchant agreement.
+Speaker 8: In the merchant agreement, we do have, because we've just gone through this for the privacy stuff with KOC, if we have a legitimate interest.
+Chair: Okay, right, fine.
+Speaker 8: Yeah.
+Speaker 11: So that's even though the logic is not calling, if I were to know one call and hopefully.
+Chair: So it's just three calls to a merchant.
+Speaker 8: And they're like £74.
+Speaker 3: But if you put that detail in the email there, so we want you to send us a passport.
+Speaker 8: We have to send some sort of cancellation comp because we can't, we're in a situation otherwise in the initial process where we have we can't do anything.
+Chair: Because not because of anything we've done, it's because of city.
+Speaker 6: Correct.
+Chair: So why wouldn't we phishing?
+Speaker 9: Yes, and that trumps our issue.
+Chair: But it's our issue because it's our vendor that's impacting our customer.
+Speaker 12: But there are data gaps with these two examples, right?
+Speaker 9: From our KYC property system.
+Speaker 8: It may be that the merchants have been refreshed in five years and we haven't got a new director's passport that City required.
+Speaker 4: I recall that one of these was for us to get comfort that the owner of the barbers, and I might be speaking out of turn here, wasn't an ex-Iranian Revolutionary Guard commander or something because there was a match of names.
+Chair: Both of them are right.
+Speaker 8: And then we've got.
+Chair: And then we're just hanging on.
+Speaker 7: Barclays had other issues.
+Speaker 8: And one of them is council-duced KYC.
+Speaker 19: Okay, but also, Dan, this happens in other markets outside of merchant payments as well, almost on a daily basis, you know, and the bank's tolerance level.
+Speaker 8: The proposal is we loop them into this process so they get a bespoke outreach telling them what they actually need to provide.
+Chair: Which I think is those valid concerns, people are going to think that's phishing.
+Speaker 8: Yeah, but then there's also concerns of them not responding to a call to action.
+Speaker 12: Merchants always think we're phishing, like our large merchants are phishing sometimes when we're feeling marketing.
+Speaker 11: I just don't do this, you'll have to do a do that as well.
+Speaker 8: So we can do outbound plus this, and we've got two options here: the merchant responds, provides the information, and it satisfies City, great.
+Chair: I don't think we should cancel merchants because City decide they don't like them.
+Speaker 7: But Ellie, there is the option of.
+Speaker 8: If they allow it.
+Chair: Or you just wait.
+Speaker 8: Yeah, you just hold them on the bank.
+Chair: Wait, hold it as a debit balance until they ring.
+Speaker 8: No, no, I agree.
+Chair: We can write to them.
+Speaker 7: Yeah, but we're but at that point, we're not holding it because the citibank we're holding it because the merchant hasn't responded.
+Chair: I think the idea of holding it to get them to respond is challenging because we're not holding it for financial crime, so we don't actually have safeguarding provisions.
+Speaker 9: I think it would have to be safeguarded if we don't have that.
+Chair: No, we don't.
+Speaker 8: And we have, in both these cases, we have done the one off.
+Chair: But do we need the merchant to participate in the JP Morgan payment?
+Speaker 7: No, not the PTU, not the urgent payment.
+Speaker 12: They need to set it up, like the merchant ID system and with their PSP.
+Speaker 8: Because we've had the issue if they don't respond and say they don't want to be selling the multi-currency but continue to transact, we can't continue to make these.
+Speaker 15: Well, we can't continue to hold their money either.
+Speaker 8: But then that's essentially cancelling.
+Chair: So I think it comes down to like our we're not cancelling merchants because city does we're making we need to make our own decisions independently of city and our own policies and procedures.
+Speaker 15: If our payments partner raises a concern that we think has validity and we decide to that's different get additional that's different then
+Speaker 11: It might be that this is a city's concern.
+Chair: So there is a financial crime treason there.
+Speaker 12: We have to investigate it.
+Chair: Which we need to investigate, and to Susie's point, therefore we're holding the money for financial crimes reasons.
+Speaker 7: But again, I think it's the magnitude.
+Chair: My worry here is not three merchants, right?
+Speaker 7: These get caught.
+Chair: Yeah.
+Speaker 7: Yeah, this one.
+Chair: HSBC.
+Speaker 7: We can go to HSBC.
+Chair: Well, I think we should wait and see if we get more cases over the next couple of, over the next quarter.
+Speaker 11: Also, it's not an ongoing solution.
+Speaker 7: Well, that was the discussion at the last meeting, and we thought maybe yes.
+Chair: The problem is, Satchi, you have to think of a world where, you know, American banks, which two of them are on that page, and we are an American bank, might take different positions to us on certain customers.
+Speaker 8: Somebody decided to go with HSBC as a third option.
+Chair: Exactly.
+Speaker 8: If you have one of them and HSBC, I agree.
+Speaker 12: But how do we know they're making similar?
+Speaker 3: But like in the case of the US Bank and an international bank, then like you've got like in the case of Muslim hands, they were paid because JP Morgan are fine with them.
+Speaker 12: Yeah, so we switched them.
+Chair: So the question is: do you need HSBC or not?
+Speaker 7: With three to four months' need time, yes.
+Chair: We've not had any cases yet, to be fair, have we?
+Speaker 7: Well, we haven't paid these other two.
+Speaker 8: No, one of them was cancelled, but I did confirm to Johnny to go ahead.
+Chair: But it's a systemic, it's a systemic weakness in our, which is a systemic gap in our operating, right?
+Speaker 12: We haven't had this problem.
+Chair: But we also don't have the scale of business, think about it here.
+Speaker 7: We can do it and say after a year, do we want to keep it?
+Chair: The problem is you'll face this situation and then you won't be able to deploy your option quickly.
+Speaker 6: It doesn't solve the problem, does it?
+Speaker 7: It just allows you to make that one off payment.
+Chair: So we need to move on.
+Speaker 7: I would do it, trial it for a year and re-evaluate the need with HSBC.
+GG: Do you re-evaluate the need for three?
+Speaker 7: It's a nice idea.
+Chair: But you don't JD Corbin do MCCYs.
+Speaker 7: Yeah.
+Chair: Good easily.
+Speaker 19: Good easily use.
+Chair: The cost is too much, combine it with ease or business or anything, okay?
+Speaker 7: So do you have a time frame though, like by when we could like when are you going to close conclude that RFP and we could move forward?
+Speaker 19: So Jan, we will finish the scoring and make a recommendation.
+Chair: Okay?
+Speaker 7: Thank you.
+Chair: Good debate.
+Speaker 4: It's me already.
+Speaker 15: So there's lots of dialogue with sponsored merchants.
+Speaker 4: Sponsored merchants will cancel the sponsored merchants down.
+Speaker 15: I'm probably, yes.
+Speaker 11: Why is the stylus red?
+Speaker 15: Why do you use it because you need to be faster finishing the it's because there's certain partners, there's certain merchants for whom we don't get the seller data and all the authors in the data when you finish the accelerated data remediation.
+Chair: So, when we finish, there's there's an enforcement part of will it be green when you finish there, Keith, on data quality, because you put red in front of us on data quality.
+Speaker 15: At the end of March, we've done all the remediation and housekeeping, so if we've got gaps, we're going to cancell.
+Chair: So, at that moment in time, we're good.
+Speaker 9: Okay.
+Chair: And that's.
+Speaker 15: Because of the gap, because the quality is bad.
+Chair: Exactly.
+Speaker 15: Sanction screening, but we choose not to rely on that for business.
+Chair: Yeah, um, we do our own screen.
+Speaker 12: And there should be no chance of that data moving.
+Chair: Yeah, there's no indication.
+Speaker 15: Well, as exceptions come up for, as they expire, they'll be declined.
+Chair: So the number of exceptions will reduce and therefore it will come back within Dojo.
+Speaker 15: We've counted it as a partner level, so they would be one of the seven.
+Chair: So the exceptions will reduce.
+Speaker 8: Perfect.
+Speaker 11: Next one, just from a disclosure point of view, and here you're in those videos as well.
+Speaker 8: I think that kind of materially covers it.
+Chair: Who's writing this EY?
+Speaker 8: No, it's being drafted internally and I've got to be EY.
+Chair: Okay, fine.
+Speaker 11: I'm actually reading it.
+Speaker 10: I think it's also become less of that.
+Chair: For who?
+Speaker 6: Everyone, people have the focus that they want.
+Chair: It's not got the same level of focus in the US, has it?
+Speaker 6: I don't know if you know the answer to this.
+Chair: And also have more UK-specific stuff in it.
+Speaker 6: So the feedback two years ago was they got more UK-specific examples, which we did to some extent.
+Speaker 11: Yeah, and the team that's documented us has acknowledged it and would be able to do good feedback as a blog, but it has been they have tried to.
+Chair: Okay, good.
+GG: It's just thank you.
+Chair: Good work, Ellie.
+Speaker 2: Hi there.
+Chair: How are you?
+Speaker 2: Well, thank you.
+Chair: Good, good, good.
+Speaker 2: Excellent.
+Chair: That all sounds great, Nathanie.
+Speaker 9: She can see you.
+Chair: Okay, fine.
+Speaker 9: Hello, Susan.
+Speaker 12: Hi, Colleen Coffee.
+Speaker 4: Hey, Nathalie, Keith McDonald.
+Speaker 12: Hi, Natalie.
+Speaker 4: Hi, Nathalie Colin Allen.
+Speaker 12: Julia Hewson.
+Speaker 2: Shadgi.
+Speaker 9: Actually, yeah.
+Speaker 2: Yes.
+Speaker 8: Why is that sitting in Epsilon?
+Speaker 2: I don't know, don't know.
+Chair: We have people clearly that are mislinked to mislinked, don't we?
+Speaker 2: Would you expect them to be somewhere other than they shouldn't be in EPSOL, should they?
+Speaker 8: They should be in definitely not their card services.
+Chair: It comes back to what Julia did a few years ago.
+Speaker 2: Dan, if you want to ask your MA to reach out either to me or George, we can look at lists of headcounts and go from there.
+Speaker 8: I had a mine on 20% for some reason, so that's right.
+Chair: Yeah, at previous employers, it's been between 10 and 15% of similar size to here.
+Speaker 2: For similar roles as well?
+Chair: Well, similar size organisation, nature of role obviously varies and depends on the organisation.
+Speaker 2: Yeah.
+Chair: So Natalie, these 18 codes.
+Speaker 2: No, I don't believe so.
+Chair: So, there's no external, I suppose I'm just trying to dimensionalise this for the board, there's no external threat from having 18 cases.
+Speaker 2: Yeah, and there's no particular trend in terms of a specific issue that keeps recurring or an issue that impacts a specific team.
+Chair: And are these 18 cases?
+Speaker 2: Let me confirm that.
+Chair: I'll come back to that.
+Speaker 2: Yeah.
+Chair: Okay, anything else on CLR?
+Speaker 2: We're seeing a rise in medical cases as well.
+Chair: I mean, absence is hard to track, isn't it?
+Speaker 2: Yeah, so you'll see that in the CES as well, the kind of that feeling overwhelmed comes through quite clearly in the comments in the CES.
+Chair: And that's not a guardian thing, right?
+Speaker 2: And in terms of focus areas, what we've got here for Ipsol is no different to what we've got for the rest of the business.
+Chair: The other thing that's not on here, Natalie, is obviously this week going into Parliament through Parliament is the new workers' rights bill, which I'm sure many of you have seen in anticipating some wide-sweeping change rights for colleagues on unfair dismissal right through to trade unions.
+Speaker 2: Yeah, one of the discussions we're having.
+Chair: Sorry.
+Speaker 12: We want to be able to tell that on straight down.
+Chair: Sorry?
+Speaker 12: We want to be able to tell you.
+Chair: I might go on strike with you.
+Speaker 3: Right, let's move on.
+Speaker 2: Colleague Service Centre.
+Speaker 3: Okay.
+Speaker 2: So that's the light.
+Chair: Can we talk about training, Natalie?
+Speaker 2: Yes.
+Chair: But looking at this training, right, I'm on page 108, that something's not right in our hierarchy.
+Speaker 2: But if you've got USCS at the moment sitting in Epsil, that may be a lot of people.
+Speaker 6: On the face of it, nothing later, yeah.
+Speaker 2: So we all ended up at the E sign.
+Chair: Okay, alright.
+Speaker 2: There might be some graph issues as well, because, like, if you look at the numbers in the 40s, that's bigger than the USCS headcount, right?
+Speaker 3: So the ops team's in there as well.
+Chair: Yeah.
+Speaker 3: I think you did.
+Chair: Yes.
+Speaker 3: The ops team, well, yeah.
+Chair: No, but they might be.
+Speaker 2: So we've got some due in December and some in January.
+Speaker 3: Yeah, we noted earlier the vulnerability vulnerable customers is 46%, Natalie, whether that's a timing issue or if it genuinely reflects non-completion of really important training.
+Speaker 2: Yeah, let me just follow up on that.
+Chair: Yeah, and just if you should just keep me like send me an end of the year training, just because I think it's important board sees or I can just go through it for the board of just the training has all been completed because obviously that's a critical part of our control program.
+Speaker 12: Yeah.
+Chair: No problem.
+Speaker 2: Yeah, sure.
+Chair: I hope that's helpful for us to know.
+Speaker 2: Yeah.
+Chair: Has anyone got any questions on this?
+Speaker 2: I'll have to check down because I can't remember the, but I think the comments did specifically call out Guardian.
+Chair: Maybe people are just regulatory stuff.
+Speaker 11: It's not the same of the Guardian project.
+Chair: There are no Guardian projects.
+Speaker 11: No, but there is also this whole ORI stuff which is tied to Guardian, which is shorthand control and compliance.
+Chair: It's fine.
+Speaker 2: Yeah, of course.
+Chair: Good update, thanks, Nathalie.
+Speaker 8: In terms of CES, do you maybe there's actual facts that are management?
+Chair: I mean, there certainly are within IT and SART.
+Speaker 11: I think there seems to be some specific teams, which probably aren't important at the CT level.
+Chair: We have discussed it at CT level.
+Speaker 11: But that does have bad holding.
+Speaker 3: Should have gone in August this year.
+Chair: There are actually finance and security.
+Speaker 6: Sorry, I'll go quick.
+Chair: So, if money's moved from EASOL to Easel, actually it's not moved directly, it's just through the EAS, which was always felt to be more supportable because the issuers sort of seem to be taking on more risk for the business.
+Speaker 6: I'll maybe come on to a slide in a minute that just breaks down ESOL's profitability into a bit more detail as well, which I think is quite interesting for the board.
+Speaker 11: Why are we always so much higher than what it was?
+Speaker 6: There are considerations and discussions going on.
+Speaker 11: Oh, okay, yeah.
+Speaker 6: So, item number four, we received our annual update from Margone, who's part of the Spanish control ship team on our subsidiary, IPAY.
+Chair: 190 million.
+Speaker 6: So the actual assessments that have been issued in respect of 2019 are much longer than that.
+Chair: That sounds too high.
+Speaker 6: But we still as a worst case scenario, but we still think we could defend that.
+Chair: So we are on there with tax to discuss this because I wanted to understand it a bit more.
+Speaker 6: Yeah, so we've, because we're coming up to year end, they've done a specific assessment on you know, where do we stand?
+Speaker 15: I can see taxpayer money being used in the right place then.
+Speaker 6: I mean, it's interesting that they're still continuing to fight it.
+Chair: Yeah, it's a big piece.
+Speaker 6: I think we've generally seen the salaries and the sort of merit increases.
+Chair: We need to clean up this.
+Speaker 6: We need to clean up these EPSCO cost sectors.
+Speaker 12: But it's the change year over year.
+Chair: So yeah, that's what.
+Speaker 12: Why even at an EBSCO level?
+Chair: I think what you're saying is there's a lot of you think about Kamal's team, but they are at GMS levels.
+Speaker 6: I can certainly take that away.
+Chair: I'll call you out.
+Speaker 12: I've got the protection generator.
+Chair: That's true.
+Speaker 10: So this was interesting update.
+Chair: Everyone looks forward.
+Speaker 9: Everyone's famous presentation.
+Chair: I don't know about that.
+Speaker 13: Make it account.
+Chair: So these numbers on this page are for the UK overall, overall.
+Speaker 13: I was surprised that I saw this.
+Chair: For it, but then there's a pop-up.
+Speaker 13: And we obviously deal with lines of business, MCO, EIRP, to deal with it.
+Chair: So, how many of them have resulted in a CLR action?
+Speaker 13: Which, I mean, I imagine most of them a lot of them to be honest, it's a lot of consequence management in terms of training and education or anything else.
+Speaker 7: That's an unrelated cascade.
+Chair: That's unrelated, right?
+Speaker 13: What we do with that, Joe as well.
+Chair: Mandate for a topic.
+Speaker 13: No, I can give you an update on that as well, but I've just spoke to the officer this morning.
+Speaker 12: Where they were setting up changing accounts for the MAX.
+Speaker 13: So we've developed a script.
+Chair: We know about it.
+Speaker 4: So the DMX ultimately is going to be the solution to this.
+Speaker 12: Yeah, and two-factor authentication.
+Speaker 13: Do you know what it is?
+Chair: He solved, it shuts down one problem.
+Speaker 12: We also have some controls, like, so what we decided is because lodging was the industry that they first targeted.
+Chair: It can't be approved just bank changes requiring a client.
+Speaker 12: But this Christmas one is for like any merchant over a million, I think.
+Chair: It's a broader topic.
+Speaker 13: So, so the good news is that law enforcement are doing some executive action, they have got the warrant in place, okay.
+Chair: It'll be our Thanksgiving, it'll be our turn.
+Speaker 9: Not for the minutes from a security perspective.
+Speaker 13: But what I would say is, I know it's been a long and projective type investigation, but we have to get the attributions right to these threat actors.
+Chair: But it shows how you've got to be on it.
+Speaker 15: That's because individuals were absent, and therefore steps were passed.
+Speaker 11: Individuals were absent.
+Chair: They were ahead of us.
+Speaker 13: I'll just cover this off very quickly, but we've part of the scheme now with UK Finance.
+Chair: Question for you, Daniel.
+Speaker 13: So is there anything else that you feel really got with relationships?
+Chair: So in terms of payfax, because like 1.6 million of our locations that are active in the UK are now payfax, 200,000 are direct, right?
+Speaker 13: Do you feel you've got the right links with Dojo, World Pay, Slow Payments, Summer?
+Chair: If you don't feel like you've got the relationships you need, then you need to come and tell us because we'll get that's what we've agreed.
+Speaker 15: He's got visibility of all of our partners like the manager.
+Chair: This goes up on the agenda for like when obviously global payments have got it now.
+Speaker 8: What's the significance of early in the morning?
+Speaker 13: That's the transaction.
+Speaker 12: It's us that identified these, not the PFABs coming to us.
+Chair: Sometimes that's the charge on A to B.
+Speaker 12: Just charge taxes.
+Speaker 13: Is that what we mean?
+Chair: Cheers, Danny.
+GG: Final options.
+Chair: We're there.
+GG: Health and safety update, which was noting.
+Chair: Okay.
+GG: I think that's everything.
+Chair: That brings us to a conclusion.

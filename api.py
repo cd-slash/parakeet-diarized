@@ -1,5 +1,6 @@
 import os
 import logging
+import warnings
 from typing import List, Optional, Dict, Any, Union
 from pathlib import Path
 
@@ -81,8 +82,7 @@ def create_app() -> FastAPI:
         timestamp_granularities: Optional[List[str]] = Form(None),
         vad_filter: bool = Form(False),
         word_timestamps: bool = Form(False),
-        diarize: bool = Form(True),
-        include_diarization_in_text: Optional[bool] = Form(None)
+        diarize: bool = Form(True)
     ):
         """
         Transcribe audio file using the Parakeet-TDT model
@@ -97,6 +97,12 @@ def create_app() -> FastAPI:
 
         # Process parameters
         logger.info(f"Transcription requested: {file.filename}, format: {response_format}")
+
+        # Track files and directories to clean up
+        temp_file = None
+        wav_file = None
+        audio_chunks = []
+        chunk_dirs_to_cleanup = set()
 
         try:
             # Save uploaded file to temp location
@@ -115,6 +121,12 @@ def create_app() -> FastAPI:
             chunk_duration = config.chunk_duration
             audio_chunks = split_audio_into_chunks(wav_file, chunk_duration=chunk_duration)
 
+            # Track chunk directories for cleanup
+            for chunk in audio_chunks:
+                chunk_dir = os.path.dirname(chunk)
+                if chunk_dir and chunk_dir != os.path.dirname(wav_file):
+                    chunk_dirs_to_cleanup.add(chunk_dir)
+
             # Initialize diarization if requested
             diarizer = None
             if diarize:
@@ -125,11 +137,16 @@ def create_app() -> FastAPI:
                     logger.warning("Diarization requested but no HuggingFace token available")
 
             # Process speaker diarization if requested
+            # Run diarization FIRST on GPU, then unload before transcription
             diarization_result = None
             if diarizer:
-                logger.info("Performing speaker diarization")
+                logger.info("Performing speaker diarization on GPU")
                 diarization_result = diarizer.diarize(wav_file)
                 logger.info(f"Diarization found {diarization_result.num_speakers} speakers")
+
+                # Unload diarization pipeline from GPU to free memory for transcription
+                diarizer.cleanup()
+                logger.info("Diarization pipeline unloaded from GPU")
 
             # Process each chunk
             all_text = []
@@ -137,6 +154,10 @@ def create_app() -> FastAPI:
 
             for i, chunk_path in enumerate(audio_chunks):
                 logger.info(f"Processing chunk {i+1}/{len(audio_chunks)}")
+
+                # Clear GPU cache before processing each chunk to avoid OOM
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
 
                 # Transcribe the chunk
                 chunk_text, chunk_segments = transcribe_audio_chunk(
@@ -163,54 +184,7 @@ def create_app() -> FastAPI:
             if diarizer and diarization_result and diarization_result.segments:
                 logger.info(f"Found {diarization_result.num_speakers} speakers")
                 all_segments = diarizer.merge_with_transcription(diarization_result, all_segments)
-
-                # Determine whether to include diarization in text
-                # Use the request parameter if provided, otherwise use the config setting
-                use_diarization_in_text = include_diarization_in_text if include_diarization_in_text is not None else config.include_diarization_in_text
-
-                if use_diarization_in_text:
-                    logger.info("Including speaker labels in transcript text")
-                    # Keep track of the previous speaker
-                    previous_speaker = None
-                    # Track which speakers we've seen before
-                    seen_speakers = set()
-
-                    # Process segments to include speaker info in the text field
-                    for segment in all_segments:
-                        if hasattr(segment, 'speaker') and segment.speaker:
-                            # Extract speaker number (e.g., 'speaker_SPEAKER_00' -> '1')
-                            speaker_label = segment.speaker
-                            if speaker_label.startswith("speaker_"):
-                                try:
-                                    # Extract speaker number from the label
-                                    parts = speaker_label.split("_")
-                                    speaker_num = int(parts[-1]) + 1  # Add 1 to make it 1-indexed
-
-                                    # Only add speaker prefix if this is a different speaker than the previous one
-                                    if speaker_label != previous_speaker:
-                                        # First time seeing this speaker
-                                        if speaker_label not in seen_speakers:
-                                            prefix = f"Speaker {speaker_num}: "
-                                            seen_speakers.add(speaker_label)
-                                        else:
-                                            # We've seen this speaker before
-                                            prefix = f"{speaker_num}: "
-
-                                        segment.text = f"{prefix}{segment.text}"
-
-                                    previous_speaker = speaker_label
-
-                                except (ValueError, IndexError):
-                                    # If parsing fails, use a generic label
-                                    if "Speaker" != previous_speaker:
-                                        segment.text = f"Speaker: {segment.text}"
-                                        previous_speaker = "Speaker"
-
-                    # Reconstruct full text with speaker labels
-                    full_text = " ".join(segment.text for segment in all_segments)
-                    logger.info(f"Speaker diarization applied to {len(all_segments)} segments and included in text")
-                else:
-                    logger.info("Speaker diarization applied to segments but not included in text")
+                logger.info("Speaker diarization applied to segments (speaker info in segment metadata only)")
             else:
                 logger.warning("Diarization not applied or returned no speakers")
 
@@ -223,15 +197,6 @@ def create_app() -> FastAPI:
                 duration=sum(len(segment.text.split()) for segment in all_segments) / 150 if all_segments else 0,
                 model="parakeet-tdt-0.6b-v2"
             )
-
-            # Clean up temporary files
-            if os.path.exists(temp_file):
-                os.unlink(temp_file)
-            if wav_file != str(temp_file) and os.path.exists(wav_file):
-                os.unlink(wav_file)
-            for chunk in audio_chunks:
-                if chunk != wav_file and os.path.exists(chunk):
-                    os.unlink(chunk)
 
             # Return in requested format
             if response_format == "json":
@@ -250,6 +215,40 @@ def create_app() -> FastAPI:
         except Exception as e:
             logger.error(f"Error during transcription: {str(e)}")
             raise HTTPException(status_code=500, detail=str(e))
+
+        finally:
+            # Always clean up temporary files, even if there was an error
+            import shutil
+            try:
+                if temp_file and os.path.exists(temp_file):
+                    os.unlink(temp_file)
+                    logger.debug(f"Cleaned up temp file: {temp_file}")
+            except Exception as e:
+                logger.warning(f"Failed to clean up temp file: {e}")
+
+            try:
+                if wav_file and wav_file != str(temp_file) and os.path.exists(wav_file):
+                    os.unlink(wav_file)
+                    logger.debug(f"Cleaned up WAV file: {wav_file}")
+            except Exception as e:
+                logger.warning(f"Failed to clean up WAV file: {e}")
+
+            # Clean up chunk files
+            for chunk in audio_chunks:
+                try:
+                    if chunk != wav_file and os.path.exists(chunk):
+                        os.unlink(chunk)
+                except Exception as e:
+                    logger.warning(f"Failed to clean up chunk {chunk}: {e}")
+
+            # Clean up chunk directories
+            for chunk_dir in chunk_dirs_to_cleanup:
+                try:
+                    if os.path.exists(chunk_dir):
+                        shutil.rmtree(chunk_dir)
+                        logger.debug(f"Cleaned up chunk directory: {chunk_dir}")
+                except Exception as e:
+                    logger.warning(f"Failed to clean up chunk directory {chunk_dir}: {e}")
 
     @app.get("/health")
     async def health_check():

@@ -1,4 +1,10 @@
 nemo_toolkit
+fiddle
+cloudpickle
+kaldialign
+nv-one-logger-core
+nv-one-logger-pytorch-lightning-integration
+nv-one-logger-training-telemetry
 fastapi
 uvicorn
 python-multipart
@@ -6,7 +12,7 @@ pydantic
 torch
 numpy
 hydra-core
-lightning
+lightning<2.6
 lhotse
 einops
 transformers
