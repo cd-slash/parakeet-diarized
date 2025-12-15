@@ -1,0 +1,27 @@
+# RunPod Serverless Dockerfile - Orchestrator
+# This creates a lightweight orchestrator that calls separate diarization and transcription endpoints
+
+FROM python:3.10-slim
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1
+
+# Upgrade pip
+RUN pip install --upgrade pip setuptools wheel
+
+# Set working directory
+WORKDIR /app
+
+# Install minimal dependencies
+RUN pip install --no-cache-dir \
+    runpod \
+    requests
+
+# Copy only the orchestrator handler
+COPY runpod_handler_orchestrator.py ./
+
+# Set the entrypoint
+CMD ["python", "-u", "runpod_handler_orchestrator.py"]

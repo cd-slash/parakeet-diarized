@@ -1,0 +1,75 @@
+# RunPod Serverless Dockerfile - Diarization Only
+# This creates an optimized image for speaker diarization using Pyannote
+
+FROM nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
+
+# Set environment variables
+ENV DEBIAN_FRONTEND=noninteractive \
+    PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    CUDA_HOME=/usr/local/cuda \
+    PATH=/usr/local/cuda/bin:$PATH \
+    LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH \
+    HF_HOME=/runpod-volume/huggingface-cache \
+    HUGGINGFACE_HUB_CACHE=/runpod-volume/huggingface-cache/hub \
+    TRANSFORMERS_CACHE=/runpod-volume/huggingface-cache/hub \
+    TORCH_HOME=/runpod-volume/torch-cache
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    python3.10 \
+    python3.10-dev \
+    python3-pip \
+    git \
+    ffmpeg \
+    libsndfile1 \
+    libsndfile1-dev \
+    sox \
+    libsox-dev \
+    wget \
+    curl \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create symbolic link for python
+RUN ln -sf /usr/bin/python3.10 /usr/bin/python
+
+# Upgrade pip
+RUN python -m pip install --upgrade pip setuptools wheel
+
+# Set working directory
+WORKDIR /app
+
+# Install core dependencies needed for diarization
+RUN pip install --no-cache-dir \
+    torch \
+    torchaudio \
+    numpy \
+    librosa \
+    soundfile \
+    pyannote-audio \
+    pydantic \
+    runpod \
+    requests
+
+# Install minimal audio processing dependencies
+RUN pip install --no-cache-dir \
+    pydub \
+    ffmpeg-python
+
+# Copy only necessary files
+COPY audio.py ./
+COPY diarization/ ./diarization/
+COPY runpod_handler_diarization.py ./
+
+# Create directories for temporary files
+RUN mkdir -p /tmp/parakeet
+
+# Note: Pyannote speaker-diarization-3.1 model will be cached via RunPod Model Store
+# Configure your endpoint with: pyannote/speaker-diarization-3.1
+# Provide HUGGINGFACE_ACCESS_TOKEN as environment variable
+
+# Set the entrypoint
+CMD ["python", "-u", "runpod_handler_diarization.py"]

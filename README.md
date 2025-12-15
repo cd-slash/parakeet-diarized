@@ -10,10 +10,23 @@ A simple FastAPI server that provides an OpenAI Whisper API-compatible endpoint 
 - Supports word-level and segment-level timestamps
 - Optional speaker diarization using [Pyannote.audio](https://github.com/pyannote/pyannote-audio)
 - FastAPI-based server with automatic OpenAPI documentation
+- **RunPod serverless deployment** with Model Store support for <10s cold starts
+
+## Deployment Options
+
+### Local/Self-Hosted
+Run on your own infrastructure with GPU support (see Installation below)
+
+### RunPod Serverless (Recommended for Production)
+Deploy as serverless endpoints with automatic scaling and Model Store caching:
+
+- **[Quick Start Guide](QUICK_START_RUNPOD.md)** - Deploy single endpoint in 5 minutes
+- **[Split Architecture Guide](SPLIT_ARCHITECTURE.md)** - Cache both models for <10s cold starts
+- **[Deployment Comparison](DEPLOYMENT_COMPARISON.md)** - Choose the right architecture
 
 ## Requirements
 
-- NVIDIA GPU with CUDA support (recommended)
+- NVIDIA GPU with CUDA support (recommended for local deployment)
 - Python 3.8 or higher
 - HuggingFace account and access token (required for speaker diarization)
 
