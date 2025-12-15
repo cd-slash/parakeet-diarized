@@ -267,6 +267,24 @@ def create_app() -> FastAPI:
             "config": config.as_dict()
         }
 
+    @app.get("/ping")
+    async def ping():
+        """
+        Health check endpoint for RunPod Load Balancing
+        Returns:
+            200: Healthy and ready to serve requests
+            204: Initializing (model loading)
+            500: Unhealthy
+        """
+        global asr_model
+
+        if asr_model is None:
+            # Model still loading - return 204 (initializing)
+            return JSONResponse(status_code=204, content={})
+
+        # Model loaded and ready - return 200
+        return JSONResponse(status_code=200, content={"status": "healthy"})
+
     @app.get("/v1/models")
     async def list_models():
         """

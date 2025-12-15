@@ -59,25 +59,19 @@ COPY diarization/ ./diarization/
 # Create directories for temporary files and model cache
 RUN mkdir -p /tmp/parakeet /root/.cache/huggingface /root/.cache/torch
 
-# OPTION 1: Use RunPod Model Store (Recommended)
-# When using RunPod's Model Store, models are pre-cached at /runpod-volume/huggingface-cache/hub/
+# Model caching via RunPod Model Store:
 # Configure your RunPod endpoint with model: nvidia/parakeet-tdt-0.6b-v2
 # This eliminates cold start time and reduces costs
-# No need to pre-download the model in the Docker image!
-
-# OPTION 2: Embed model in Docker image (Fallback)
-# Uncomment the lines below to pre-download the model into the Docker image
-# This increases image size but ensures the model is always available
-# Use this if NOT using RunPod Model Store
-# RUN python -c "from nemo.collections.asr.models import EncDecCTCModelBPE; \
-#     print('Downloading Parakeet model...'); \
-#     model = EncDecCTCModelBPE.from_pretrained('nvidia/parakeet-tdt-0.6b-v2'); \
-#     print('Model downloaded successfully')"
 
 # Note: Pyannote speaker diarization model requires HuggingFace token at runtime
-# It cannot be pre-downloaded without accepting terms on HuggingFace
-# For diarization: Set HUGGINGFACE_ACCESS_TOKEN environment variable when deploying
-# If using gated models in Model Store, provide your HF token in endpoint configuration
+# Set HUGGINGFACE_ACCESS_TOKEN environment variable when deploying
 
-# Set the entrypoint to the RunPod handler
-CMD ["python", "-u", "runpod_handler.py"]
+# Expose port for HTTP server (Load Balancing mode)
+EXPOSE 8000
+
+# Health check for RunPod Load Balancing
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:${PORT:-8000}/ping || exit 1
+
+# Set the entrypoint to FastAPI server (for Load Balancing)
+CMD ["python", "-u", "main.py"]
